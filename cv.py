@@ -10,7 +10,7 @@ def canned_page():
     # Initialize the Roboflow client
     CLIENT = InferenceHTTPClient(
         api_url="https://detect.roboflow.com",
-        api_key="xHriLsRvLpz1BfXS1wuw"
+        api_key="k1imImlLCAG8jOgDRxjM"
     )
 
     # Streamlit UI setup
