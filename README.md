@@ -42,15 +42,5 @@ Additionally, we implemented a **video classification system** for canned goods.
 - **Enhance Defect Detection**: Leverage AI video classification to assess canned goods and improve quality control.
 - **Promote Transparency**: With optional blockchain integration, provide secure and tamper-proof audit trails.
 
+                                                                           
 
-## 🚧 Future Enhancements
-- **Ethereum blockchain** designed to manage and log audit events for products, primarily in supply chain management and food safety. It enables users to create, track, and retrieve audit events, promoting transparency and accountability.
-- Real time anomaly detection in **conveyor belt using live camera feed**.
-- **Segregation** of defected products through a divergence in the conveyor belt.                                                                                                     
-
-## 🤝 Contribution Guidelines
-Feel free to contribute to the project! Submit a pull request or open an issue to discuss any changes or new features you'd like to add.
-
-## 🌟 Acknowledgements
-- Hackathon organizers and sponsors for providing the opportunity to develop this solution.
-- Open-source libraries and frameworks: Pandas, NumPy, Streamlit, cv2, InferenceHTTPClient, ROBOFLOW and many others.
